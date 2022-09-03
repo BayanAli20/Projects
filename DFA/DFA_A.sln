@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFA_A", "DFA_A\DFA_A.csproj", "{19FC2075-3EAB-4C09-874D-8BBB8A2BE1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FC2075-3EAB-4C09-874D-8BBB8A2BE1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FC2075-3EAB-4C09-874D-8BBB8A2BE1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FC2075-3EAB-4C09-874D-8BBB8A2BE1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FC2075-3EAB-4C09-874D-8BBB8A2BE1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
