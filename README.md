@@ -11,7 +11,7 @@ This is a small priject contains BFS algorithm with some modification in searchi
 -This project written using C#.
 
 ### 3. If Else Compiler
-This project contains a first step how we can build a compiler to check one example if/else instruction. ()
+This project contains a first step for how we can build a compiler to check one example if/else instruction. ()
 
 ### 4. DFA Algorithm
 You can find the code for DFA algorithm.
