@@ -6,7 +6,7 @@ analyzing them in real-time for various quality aspects such as texture, color, 
 the project trains models capable of accurately identifying and categorizing acceptable and defective wood products.
 -Tools and languages: Visual studio, Matlab, C#.
 
-## 2. Updated BFS algorithm
+### 2. Updated BFS algorithm
 This is a small priject contains BFS algorithm with some modification in searching way.
 -This project written using C#.
 
