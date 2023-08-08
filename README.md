@@ -7,3 +7,4 @@ the project trains models capable of accurately identifying and categorizing acc
 
 ## Updated BFS algorithm
 This is a small priject contains BFS algorithm with some modification in searching way.
+
